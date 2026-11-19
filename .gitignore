@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+elliptic_raw/
+*.csv.zip
+results.zip
+# do not commit the dataset
+elliptic_txs_*.csv
