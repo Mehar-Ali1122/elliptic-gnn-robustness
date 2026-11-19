@@ -85,7 +85,7 @@ All per-run values are in [`results/`](results/).
 
 ## How to run
 
-1. Open `Elliptic_GNN_Robust_Evaluation.ipynb` in Google Colab and select a GPU runtime.
+1. Open `Elliptic_GNN_Robust_Evaluation_v2.ipynb` in Google Colab and select a GPU runtime.
 2. Choose *Run all*.
    - The dataset is downloaded from Kaggle with `kagglehub`; the PyTorch Geometric mirror is used as a fallback.
    - Alternatively, put the three CSV files in a folder and set `CONFIG["data_dir"]`.
